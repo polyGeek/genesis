@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 // todo: Abstract styles
 // todo: theme switching
 
-// Small change
+// Small change #2
 
 void main() {
   runApp(MyApp());
